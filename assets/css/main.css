@@ -2107,7 +2107,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
+		color: #24b4d1;
 		text-decoration: none;
 	}
 
@@ -2821,7 +2821,7 @@
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #f56a6a;
+						background-color: #24b4d1;
 						color: #ffffff !important;
 					}
 
@@ -3987,7 +3987,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #24b4d1;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
